@@ -1,0 +1,11 @@
+{
+    "include": [
+        "server/**/*.ts"
+    ],
+    "compilerOptions": {
+        "module": "node16",
+        "moduleResolution": "node16",
+        "outDir": "dist",
+        "esModuleInterop": true
+    }
+}
